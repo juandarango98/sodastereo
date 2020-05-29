@@ -1099,8 +1099,17 @@ footer .credits {
 }
 .textoInfo {
   margin-left: 100px;
+  margin-right: 100px;
+  margin-top: 20px;
+  margin-bottom: 20px;
   font-size: 2rem;
-  text-justify: distribute-all-lines !important;
+  text-align: justify !important;
+}
+.textoInfoImagenDerecha {
+  margin-left: 100px;
+  font-size: 2rem;
+
+  text-align: justify !important;
 }
 .divTextoInfo {
   border-radius: 30px;

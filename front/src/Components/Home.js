@@ -52,8 +52,8 @@ const Home = () => {
               <span className="color-b"></span>
             </h1>
 
-            <section className="section-services section-t8" id="descripcion">
-              <div className="container">
+            <section className="section-services " id="descripcion">
+              <div>
                 <div className="row">
                   <div className="col-md-12">
                     <div className="card-box-c foo">
@@ -89,8 +89,8 @@ const Home = () => {
               <span className="color-b"></span>
             </h1>
 
-            <section className="section-services section-t8" id="descripcion">
-              <div className="container">
+            <section className="section-services " id="descripcion">
+              <div>
                 <div className="row">
                   <div className="col-md-12">
                     <div className="card-box-c foo">
@@ -153,7 +153,7 @@ const Home = () => {
             </h1>
 
             <section className="section-services" id="descripcion">
-              <div className="container">
+              <div>
                 <div className="row">
                   <div className="col-md-12">
                     <div className="card-box-c foo">
@@ -200,7 +200,7 @@ const Home = () => {
                 <div className="row">
                   <div className="col-lg-8">
                     <div>
-                      <p className="textoInfo">
+                      <p className="textoInfoImagenDerecha">
                         En julio de 1983, debutaron en público en la Discoteque
                         Airport, en el barrio de Nuñez, en Buenos Aires. A
                         partir de ese momento Soda Stereo comenzó a recorrer el
