@@ -177,8 +177,8 @@ const Home = () => {
             <YouTube
               video="xTtR4ZDzZqw"
               allowFullscreen={true}
-              height={"50%"}
-              width={"36%"}
+              height={"40%"}
+              width={"56%"}
               style={{ borderRadius: "30px" }}
             />
           </div>
@@ -198,9 +198,9 @@ const Home = () => {
             <section className="section-services section-t8" id="descripcion">
               <div className="">
                 <div className="row">
-                  <div className="col-lg-8">
+                  <div className="col-lg-12">
                     <div>
-                      <p className="textoInfoImagenDerecha">
+                      <p className="textoInfo">
                         En julio de 1983, debutaron en público en la Discoteque
                         Airport, en el barrio de Nuñez, en Buenos Aires. A
                         partir de ese momento Soda Stereo comenzó a recorrer el
