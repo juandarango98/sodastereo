@@ -178,7 +178,7 @@ const Home = () => {
               video="xTtR4ZDzZqw"
               allowFullscreen={true}
               height={"40%"}
-              width={"56%"}
+              width={"40%"}
               style={{ borderRadius: "30px" }}
             />
           </div>
@@ -215,6 +215,292 @@ const Home = () => {
                 </div>
               </div>
             </section>
+          </div>
+        </div>
+      </div>
+
+      <div className="intro intro-carousel">
+        <div id="carousel" className="owl-carousel owl-theme">
+          <div
+            className="carousel-item-a intro-item bg-image"
+            style={{
+              backgroundImage: `url(https://www.sodastereo.com/files/albums/soda-stereo.jpg)`,
+            }}
+          >
+            <div className="overlay overlay-a"></div>
+            <h1 className="titulo mb-4">
+              <span className="color-b">Primer álbum </span>
+            </h1>
+          </div>
+        </div>
+      </div>
+
+      <div className="intro intro-carousel">
+        <div id="carousel" className="owl-carousel owl-theme">
+          <div className="carousel-item-a intro-item bg-image" style={{}}>
+            <h1 className="subtitulo">
+              <span className="color-b">1984</span>
+            </h1>
+            <h1 className="fechas">
+              <span className="color-b">El primer álbum</span>
+            </h1>
+
+            <section className="section-services" id="descripcion">
+              <div>
+                <div className="row">
+                  <div className="col-md-12">
+                    <div className="card-box-c foo">
+                      <div className="card-body-c">
+                        <div>
+                          <p className="textoInfo">
+                            En 1984, la banda presentó su primer álbum 'Soda
+                            Stereo', un álbum de rock, muy exitoso del cual
+                            salieron algunas de las mejores canciones de la
+                            banda.Con la salida del álbum, hubo muchas
+                            reacciones ante la letra de 'Dietético': 'Somos un
+                            conjunto dietético, buscando el paraíso estético,
+                            Nuestra música es dietética. Hace adelgazar
+                            comiendo, pero ante cualquier duda consulte a su
+                            médico. Tratamos de mantener los cuerpos sanos y las
+                            mentes desaceleradas.'
+                          </p>
+                        </div>
+                      </div>
+                    </div>
+                  </div>
+                </div>
+              </div>
+            </section>
+            <YouTube
+              video="WAL3zZZjqG0"
+              allowFullscreen={true}
+              height={"40%"}
+              width={"40%"}
+              style={{ borderRadius: "30px" }}
+            />
+          </div>
+        </div>
+      </div>
+      <div className="intro intro-carousel">
+        <div id="carousel" className="owl-carousel owl-theme">
+          <div className="carousel-item-a intro-item bg-image">
+            <h1 className="subtitulo">
+              <span className="color-b">1984</span>
+            </h1>
+            <h1 className="fechas">
+              <span className="color-b">El primer álbum</span>
+            </h1>
+
+            <section className="section-services" id="descripcion">
+              <div>
+                <div className="row">
+                  <div className="col-md-12">
+                    <div className="card-box-c foo">
+                      <div className="card-body-c">
+                        <div>
+                          <p className="textoInfo">
+                            Estas son algunoas de las canciones del primer
+                            album: 'Trátame Suavemente','Sobredosis de Tv',
+                            'Tele-ka' y 'Te hacen falta vitaminas'.
+                          </p>
+                        </div>
+                      </div>
+                    </div>
+                  </div>
+                </div>
+              </div>
+            </section>
+            <div className="container">
+              <div className="row">
+                <div className="col-md-3">
+                  <div className="divVideo">
+                    <YouTube
+                      video="UPVfQKUHTSc"
+                      allowFullscreen={true}
+                      height={"90%"}
+                      width={"90%"}
+                      style={{ borderRadius: "30px" }}
+                    />
+                  </div>
+                </div>
+                <div className="col-md-3">
+                  <div className="divVideo">
+                    <YouTube
+                      video="AtQSF-JVR7o"
+                      allowFullscreen={true}
+                      height={"90%"}
+                      width={"90%"}
+                      style={{ borderRadius: "30px" }}
+                    />
+                  </div>
+                </div>
+                <div className="col-md-3">
+                  <div className="divVideo">
+                    <YouTube
+                      video="NKVLl4c35j4"
+                      allowFullscreen={true}
+                      height={"90%"}
+                      width={"90%"}
+                      style={{ borderRadius: "30px" }}
+                    />
+                  </div>
+                </div>
+                <div className="col-md-3">
+                  <div className="divVideo">
+                    <YouTube
+                      video="G0xLD2stayM"
+                      allowFullscreen={true}
+                      height={"90%"}
+                      width={"90%"}
+                      style={{ borderRadius: "30px" }}
+                    />
+                  </div>
+                </div>
+              </div>
+            </div>
+          </div>
+        </div>
+      </div>
+
+      <div className="intro intro-carousel">
+        <div id="carousel" className="owl-carousel owl-theme">
+          <div
+            className="carousel-item-a intro-item bg-image"
+            style={{
+              backgroundImage: `url(https://cdn.tn.com.ar/sites/default/files/styles/1366x765/public/2015/11/19/sodastereo.jpg)`,
+            }}
+          >
+            <div className="overlay overlay-a"></div>
+            <h1 className="titulo mb-4">
+              <span className="color-b"> </span>Nada personal
+            </h1>
+          </div>
+        </div>
+      </div>
+
+      <div className="intro intro-carousel">
+        <div id="carousel" className="owl-carousel owl-theme">
+          <div className="carousel-item-a intro-item bg-image" style={{}}>
+            <h1 className="subtitulo">
+              <span className="color-b">1985</span>
+            </h1>
+            <h1 className="fechas">
+              <span className="color-b">El segundo álbum</span>
+            </h1>
+
+            <section className="section-services" id="descripcion">
+              <div>
+                <div className="row">
+                  <div className="col-md-12">
+                    <div className="card-box-c foo">
+                      <div className="card-body-c">
+                        <div>
+                          <p className="textoInfo">
+                            En 1985, la banda presentó su segundo álbum 'Nada
+                            Personal', un álbum muy exitoso del cual salieron
+                            algunas de las mejores canciones de la banda.Con la
+                            salida del álbum, hubo muchas reacciones ante la
+                            letra de 'Dietético': 'Somos un conjunto dietético,
+                            buscando el paraíso estético, Nuestra música es
+                            dietética. Hace adelgazar comiendo, pero ante
+                            cualquier duda consulte a su médico. Tratamos de
+                            mantener los cuerpos sanos y las mentes
+                            desaceleradas.'
+                          </p>
+                        </div>
+                      </div>
+                    </div>
+                  </div>
+                </div>
+              </div>
+            </section>
+            <YouTube
+              video="WAL3zZZjqG0"
+              allowFullscreen={true}
+              height={"40%"}
+              width={"40%"}
+              style={{ borderRadius: "30px" }}
+            />
+          </div>
+        </div>
+      </div>
+      <div className="intro intro-carousel">
+        <div id="carousel" className="owl-carousel owl-theme">
+          <div className="carousel-item-a intro-item bg-image">
+            <h1 className="subtitulo">
+              <span className="color-b">1984</span>
+            </h1>
+            <h1 className="fechas">
+              <span className="color-b">El primer álbum</span>
+            </h1>
+
+            <section className="section-services" id="descripcion">
+              <div>
+                <div className="row">
+                  <div className="col-md-12">
+                    <div className="card-box-c foo">
+                      <div className="card-body-c">
+                        <div>
+                          <p className="textoInfo">
+                            Estas son algunoas de las canciones del primer
+                            album: 'Trátame Suavemente','Sobredosis de Tv',
+                            'Tele-ka' y 'Te hacen falta vitaminas'.
+                          </p>
+                        </div>
+                      </div>
+                    </div>
+                  </div>
+                </div>
+              </div>
+            </section>
+            <div className="container">
+              <div className="row">
+                <div className="col-md-3">
+                  <div className="divVideo">
+                    <YouTube
+                      video="UPVfQKUHTSc"
+                      allowFullscreen={true}
+                      height={"90%"}
+                      width={"90%"}
+                      style={{ borderRadius: "30px" }}
+                    />
+                  </div>
+                </div>
+                <div className="col-md-3">
+                  <div className="divVideo">
+                    <YouTube
+                      video="AtQSF-JVR7o"
+                      allowFullscreen={true}
+                      height={"90%"}
+                      width={"90%"}
+                      style={{ borderRadius: "30px" }}
+                    />
+                  </div>
+                </div>
+                <div className="col-md-3">
+                  <div className="divVideo">
+                    <YouTube
+                      video="NKVLl4c35j4"
+                      allowFullscreen={true}
+                      height={"90%"}
+                      width={"90%"}
+                      style={{ borderRadius: "30px" }}
+                    />
+                  </div>
+                </div>
+                <div className="col-md-3">
+                  <div className="divVideo">
+                    <YouTube
+                      video="G0xLD2stayM"
+                      allowFullscreen={true}
+                      height={"90%"}
+                      width={"90%"}
+                      style={{ borderRadius: "30px" }}
+                    />
+                  </div>
+                </div>
+              </div>
+            </div>
           </div>
         </div>
       </div>

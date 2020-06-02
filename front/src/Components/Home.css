@@ -165,7 +165,6 @@ a:hover {
 /*------/ Pagination-a /------*/
 
 .pagination-a .pagination .page-link {
-  margin: 0 0.2rem;
   border-color: transparent;
   padding: 0.5rem 0.8rem;
   color: #000000;
@@ -1105,6 +1104,16 @@ footer .credits {
   font-size: 2rem;
   text-align: justify !important;
 }
+@media only screen and (max-width: 1400px) {
+  .textoInfo {
+    margin-left: 100px;
+    margin-right: 100px;
+    margin-top: 20px;
+    margin-bottom: 20px;
+    font-size: 1.5rem;
+    text-align: justify !important;
+  }
+}
 @media only screen and (max-width: 768px) {
   .textoInfo {
     margin-left: 10px;
@@ -1113,6 +1122,11 @@ footer .credits {
     margin-bottom: 20px;
     font-size: 1rem;
     text-align: justify !important;
+  }
+  .divVideo {
+    background-color: #2eca6a;
+    height: 80px !important;
+    width: 80px;
   }
 }
 .textoInfoImagenDerecha {
@@ -1125,4 +1139,8 @@ footer .credits {
   border-radius: 30px;
   background-color: rgba(0, 0, 0, 0.9);
   padding: 30px;
+}
+.divVideo {
+  height: 200px !important;
+  width: 200px;
 }
