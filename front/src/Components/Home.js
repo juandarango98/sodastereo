@@ -694,11 +694,7 @@ const Home = () => {
           src={require("./images/" + persona.Foto)}
         ></img>
       );
-    } catch (error) {
-      return (
-        <img className="imagenCont" src={require("./images/icon.png")}></img>
-      );
-    }
+    } catch (error) {}
   }
   function renderGente() {
     let list = [];
