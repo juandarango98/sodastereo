@@ -397,15 +397,7 @@ const Home = () => {
                         <div>
                           <p className="textoInfo">
                             En 1985, la banda presentó su segundo álbum 'Nada
-                            Personal', un álbum muy exitoso del cual salieron
-                            algunas de las mejores canciones de la banda.Con la
-                            salida del álbum, hubo muchas reacciones ante la
-                            letra de 'Dietético': 'Somos un conjunto dietético,
-                            buscando el paraíso estético, Nuestra música es
-                            dietética. Hace adelgazar comiendo, pero ante
-                            cualquier duda consulte a su médico. Tratamos de
-                            mantener los cuerpos sanos y las mentes
-                            desaceleradas.'
+                            Personal',
                           </p>
                         </div>
                       </div>
