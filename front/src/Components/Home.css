@@ -8,7 +8,10 @@
 /*======================================
 //--//-->   STYLES GENERALES
 ======================================*/
-
+.imagenCont {
+  max-height: 400px;
+  height: 400px;
+}
 body {
   font-family: futura;
   color: #555555;
