@@ -102,13 +102,7 @@ const Home = () => {
       CARGO: "ANALISTA DE CONTROL GESTIÓN",
       Foto: "DanielEduardoVielma.jpg",
     },
-    {
-      PRIMER_APELLIDO: "REDONDO",
-      SEGUNDO_APELLIDO: "GOMEZ",
-      NOMBRE: "DANIEL ERNESTO",
-      CARGO: "ANALISTA DE GESTIÓN DE SELL OUT",
-      Foto: "DanielErnestoRedondo.jpg",
-    },
+
     {
       PRIMER_APELLIDO: "HERNANDEZ",
       SEGUNDO_APELLIDO: "PANTOJA",
