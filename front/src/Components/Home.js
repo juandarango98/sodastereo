@@ -26,7 +26,7 @@ const Home = () => {
           <div
             className="carousel-item-a intro-item bg-image"
             style={{
-              backgroundImage: `url(https://wallpapercave.com/wp/wp2023205.jpg)`,
+              backgroundImage: "url(./images/loreal.jpg)",
             }}
           >
             <div className="overlay overlay-a"></div>
@@ -61,15 +61,8 @@ const Home = () => {
                         <p className="textoInfo">
                           A comienzos de los años 1980, Gustavo Cerati, de 22
                           años, y Héctor (Zeta) Bosio, de 23 años, compartían
-                          los mismos gustos y sueños musicales y comenzaron una
-                          búsqueda para integrar un grupo punk rock inspirado en
-                          The Police, que visitó Argentina en 1980, y The Cure,
-                          con temas propios en español. Primero, Cerati se
-                          integró a The Morgan y luego formaron sucesivamente el
-                          grupo Stress, junto a Charly Amato, Sandra Baylac y el
-                          baterista Pablo Guadalupe, y Proyecto Erekto junto a
-                          Andrés Calamaro, que no cubrieron sus expectativas.
                         </p>
+                        <img src="https://github.com/juandarango98/sodastereo/blob/master/front/src/Components/images/dog.png"></img>
                       </div>
                     </div>
                   </div>
