@@ -16,7 +16,7 @@ const Home = () => {
           >
             <div className="overlay overlay-a"></div>
             <h1 className="titulo mb-4">
-              <span className="color-b">Soda Stereo </span>
+              <span className="color-b">Presentacion Val </span>
             </h1>
           </div>
         </div>
